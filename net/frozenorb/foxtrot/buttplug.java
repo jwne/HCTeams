@@ -28,8 +28,9 @@ import org.bukkit.event.*;
 import net.frozenorb.foxtrot.listener.*;
 import net.frozenorb.foxtrot.team.commands.team.*;
 
-public class buttplug extends JavaPlugin
-{
+public class buttplug extends JavaPlugin {
+    
+    //REKT 
     private static buttplug instance;
     public static final Random RANDOM;
     private JedisPool jedisPool;
